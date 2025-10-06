@@ -1,4 +1,4 @@
 # my-first-commits
 
 Start learning
-Seems 
+Seems to 
